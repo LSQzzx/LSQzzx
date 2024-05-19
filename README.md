@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust, LLMs, ROS...
 - 📫 How to reach me: lsqzzx@gmail.com, lisq0204@qq.com, https://t.me/QSp1der
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSQzzx&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSQzzx&layout=compact&langs_count=6&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite")](https://github.com/anuraghazra/github-readme-stats)
