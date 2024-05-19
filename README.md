@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSQzzx&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"")](https://github.com/anuraghazra/github-readme-stats)
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=QSp1der)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=LSQzzx)
